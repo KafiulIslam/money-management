@@ -1,18 +1,29 @@
 # ui_practice
-
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#Money-Management
 "# money-management" 
 "# money-management" 
+![WelcomeOne](https://user-images.githubusercontent.com/90089792/149821362-0fb78166-c7f9-4731-9071-743dec7de9f5.png)
+![WelcomeTwo](https://user-images.githubusercontent.com/90089792/149821470-ea4f1e9b-a09c-4b53-b048-2525a88fc050.png)
+![WelcomeThree](https://user-images.githubusercontent.com/90089792/149821554-02424f69-afff-412e-b79c-017bcc25ec5b.png)
+![LoginPage](https://user-images.githubusercontent.com/90089792/149820777-90bb4a7e-b2f9-45c5-a1e2-a70bfb1eab7c.png)
+![ForgetPassword](https://user-images.githubusercontent.com/90089792/149821670-f5beee4e-8b8b-4821-bd60-8bd58fcf4da6.png)
+![HomePage](https://user-images.githubusercontent.com/90089792/149821709-5dfb28be-148f-4be1-864f-90b6cb2057a6.png)
+![HomeExtend](https://user-images.githubusercontent.com/90089792/149821852-6083b9a2-3879-41ee-a353-4580b05d9895.png)
+![NotificationPage](https://user-images.githubusercontent.com/90089792/149822001-da688c93-0904-4dad-8dbc-bc90edbe127c.png)
+![NotificationDialog](https://user-images.githubusercontent.com/90089792/149822043-a821b27a-79fc-4f88-911c-99946e17a9fb.png)
+![TransactionPage](https://user-images.githubusercontent.com/90089792/149822109-18a20acb-8e7b-4255-b60e-fe49ad526924.png)
+![DetailTransaction](https://user-images.githubusercontent.com/90089792/149822705-7561aa6d-8ad7-4ed6-957c-02d245221ba3.png)
+![BudgetPage](https://user-images.githubusercontent.com/90089792/149822230-b401012a-6b40-46cb-9e37-0eb0a3d65665.png)
+![DetailBudget](https://user-images.githubusercontent.com/90089792/149822583-a650cdf8-db7a-418a-8762-d57b5472d464.png)
+![CreateBudget](https://user-images.githubusercontent.com/90089792/149822622-e36a445b-3d35-46e6-84b3-fb19e82abf2f.png)
+![DetailDelete](https://user-images.githubusercontent.com/90089792/149822662-8b8b8582-3b9a-4ed5-842f-67f46e5a4682.png)
+![AddPage](https://user-images.githubusercontent.com/90089792/149822277-f9dcc0ff-87c8-4481-bd17-95ce2443f3c5.png)
+![AddNewWallet](https://user-images.githubusercontent.com/90089792/149822330-2eb6665d-0da5-4d01-b2b6-2b0f7c66847b.png)
+![Attachment](https://user-images.githubusercontent.com/90089792/149822393-1c4d8c07-2cd9-4000-b0d0-4129a36a9e23.png)
+![IncomePage](https://user-images.githubusercontent.com/90089792/149822460-99e1014c-9802-4561-ac2d-6dd42d991ed2.png)
+![ExpensePage](https://user-images.githubusercontent.com/90089792/149822496-9f9b6f3f-3c8e-4cfa-9e2f-b0f4cfca0990.png)
+![Profile](https://user-images.githubusercontent.com/90089792/149822778-866a592c-ae31-4681-9bbb-7f9dab153025.png)
+![AccountPage](https://user-images.githubusercontent.com/90089792/149822843-f627109a-74ef-4d15-a58e-ae4c9d78e343.png)
+![SettingPage](https://user-images.githubusercontent.com/90089792/149822892-4f1fde39-5c8f-40a0-bbb1-82edb9d25bb0.png)
+![Logout](https://user-images.githubusercontent.com/90089792/149822945-3d6e61d2-34da-411f-945a-67933a5bc908.png)
+![ExportData](https://user-images.githubusercontent.com/90089792/149822993-42d1d730-63c5-470c-a0a6-2de04f5d5ee9.png)
